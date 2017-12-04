@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+
+    <string name="facebook_application_id" translatable="false">2041161912826494</string>
+    <string name="fb_login_protocol_scheme">fb2041161912826494</string>
+
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">YOUR_CONSUMER_KEY</string>
+    <string name="twitter_consumer_secret" translatable="false">YOUR_CONSUMER_SECRET</string>
+
+
+</resources>
